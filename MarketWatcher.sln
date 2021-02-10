@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketWatcher", "MarketWatcher\MarketWatcher.csproj", "{F44F3687-CDE5-4D01-95C8-72AB74D33F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketWatchUnitTest", "MarketWatchUnitTest\MarketWatchUnitTest.csproj", "{C95ABD2B-C8C9-4032-B4C9-9A75DD1FCF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44F3687-CDE5-4D01-95C8-72AB74D33F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44F3687-CDE5-4D01-95C8-72AB74D33F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44F3687-CDE5-4D01-95C8-72AB74D33F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44F3687-CDE5-4D01-95C8-72AB74D33F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95ABD2B-C8C9-4032-B4C9-9A75DD1FCF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95ABD2B-C8C9-4032-B4C9-9A75DD1FCF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95ABD2B-C8C9-4032-B4C9-9A75DD1FCF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95ABD2B-C8C9-4032-B4C9-9A75DD1FCF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20B7288C-B2E6-49C9-82A9-1B6ADFAF9718}
+	EndGlobalSection
+EndGlobal
